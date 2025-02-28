@@ -7,7 +7,7 @@ Currently seeking a career in software development with a passion for learning n
 
 ### ARnatomy (Capstone Project)
 ARnatomy is a mixed reality application for the Microsoft HoloLens 2 with the purpose of providing an alternative to learning human anatomy in the classsroom.
-- **Technologies:** C#, Java, HTML, CSS, JavaScript, SQL
+- **Technologies:** C#, Java, HTML, CSS, JavaScript, SQL, Apache Tomcat
 - [Link](https://github.com/mannychuela/ARNATOMY-Web)
 
 ### Web bidding store application
