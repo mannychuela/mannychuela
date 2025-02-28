@@ -16,7 +16,7 @@ THIS IS A RECREATION OF EBAY AND NOT A REAL PLACE TO BID AND SELL ITEMS.
 - **Technologies:** Java, HTML, CSS, JavaScript, SQL, Apache Tomcat
 - [Link](https://github.com/mannychuela/Web-bidding-store-application)
 
-- ### Web bidding store ANDROID Application
+### Web bidding store ANDROID Application
 A mobile application developed in Android Studio for the Web bidding store.
 - **Technologies:** Java, Android Studio
 - [Link](https://github.com/mannychuela/Web-bidding-store-Android-application)
