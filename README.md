@@ -1,9 +1,9 @@
 # Hi there, I'm Manny👋
 
 ## 🚀 About Me
-Currently seeking a career in software development and Tech with a passion for learning new skills and creating meaningful projects.
+I am a recent graduate with a Bachelor's of Science in Computer Engineering currently seeking a career in software development and Tech with a passion for learning new skills and creating meaningful projects.
 
-## 📝 Projects
+## 📝Standout Projects
 
 ### ARnatomy (Capstone Project)
 ARnatomy is a mixed reality application for the Microsoft HoloLens 2 with the purpose of providing an alternative to learning human anatomy in the classsroom.
@@ -25,11 +25,6 @@ A mobile application developed in Android Studio for the Web bidding store.
 - Email: mrodriguez.antonio1409@gmail.com
 - LinkedIn: http://linkedin.com/in/manuel-rodriguez-4b3b0a318
 - Discord: mannychuela
-
-## ⚡ Fun Fact
-I love movies, anime, and videogames.... :p
-
-If your favorite composer is Shiro Sagisu we're friends 
 
 
 
