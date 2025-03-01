@@ -1,7 +1,7 @@
 # Hi there, I'm Manny👋
 
 ## 🚀 About Me
-Currently seeking a career in software development with a passion for learning new skills and creating meaningful projects.
+Currently seeking a career in software development and Tech with a passion for learning new skills and creating meaningful projects.
 
 ## 📝 Projects
 
