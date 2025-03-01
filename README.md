@@ -29,7 +29,7 @@ A mobile application developed in Android Studio for the Web bidding store.
 ## ⚡ Fun Fact
 I love movies, anime, and videogames.... :p
 
-If you're favorite composer is Shiro Sagisu we're friends 
+If your favorite composer is Shiro Sagisu we're friends 
 
 
 
