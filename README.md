@@ -1,7 +1,7 @@
 # Hi there, I'm Manny👋
 
 ## 🚀 About Me
-I am a recent graduate with a Bachelor's of Science in Computer Engineering currently seeking a career in software development and Tech with a passion for learning new skills and creating meaningful projects.
+I am a recent graduate with a Bachelor of Science in Computer Engineering currently seeking a career in software development and Tech with a passion for learning new skills and creating meaningful projects.
 
 ## 📝Standout Projects
 
@@ -25,6 +25,3 @@ A mobile application developed in Android Studio for the Web bidding store.
 - Email: mrodriguez.antonio1409@gmail.com
 - LinkedIn: http://linkedin.com/in/manuel-rodriguez-4b3b0a318
 - Discord: mannychuela
-
-
-
