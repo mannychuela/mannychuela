@@ -24,4 +24,3 @@ A mobile application developed in Android Studio for the Web bidding store.
 ## 📫 Contact (I will only respond to legitimate inquiries)
 - Email: mrodriguez.antonio1409@gmail.com
 - LinkedIn: http://linkedin.com/in/manuel-rodriguez-4b3b0a318
-- Discord: mannychuela
