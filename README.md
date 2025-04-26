@@ -1,7 +1,7 @@
 # Hi there, I'm Manuel👋
 
 ## 🚀 About Me
-I am a recent graduate with a Bachelor of Science in Computer Engineering currently seeking a career in software development and Tech with a passion for learning new skills and creating meaningful projects.
+I graduated with a Bachelor of Science in Computer Engineering currently seeking a career in software development and Tech with a passion for learning new skills and creating meaningful projects.
 
 ## 📝Standout Projects
 
